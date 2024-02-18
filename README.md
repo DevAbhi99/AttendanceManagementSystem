@@ -21,6 +21,6 @@
 ![image](https://github.com/DevAbhi99/AttendanceManagementSystem/assets/160063176/95d7cd1b-6869-4a97-b487-0ccc0dce49a5)
 
 #Description:
-1. The app is made using JAAVA Swing on NetBeans and has basic signup and login functionalities where the datas submitted by the users are stored in MySql database via JDBC API
+1. The app is made using Java Swing on NetBeans and has basic signup and login functionalities where the datas submitted by the users are stored in MySql database via JDBC API
 
 2. The app allows the users to update attendance of students, delete student record, delete all records and fetch students attendance records
